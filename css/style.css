@@ -1,0 +1,307 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+#navbar {
+  padding: 1.5rem 0rem;
+  position: sticky;
+  top: 0;
+  text-transform: uppercase;
+  font-family: "Source Code Pro", monospace;
+}
+
+html,
+body {
+  margin: 0;
+  font-family: "Source Code Pro", monospace;
+  padding: 0;
+}
+
+.row.no-gutters > [class^="col-"],
+.row.no-gutters > [class*=" col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+#hero {
+  width: 100vw;
+  height: 400px;
+  background-image: url("https://www.dropbox.com/s/47hqdung0bak3xc/pexels-avif-id-1995172%20%281%29.jpg?raw=1");
+  background-size: cover;
+}
+#menupic1 {
+  width: 300px;
+  height: 300px;
+  background-image: url("https://www.dropbox.com/s/f1cddpl37g8th4o/pexels-ena-marinkovic-4071737.jpg?raw=1");
+  background-size: cover;
+  border: 5px solid white;
+  color: white;
+  font-size: 1rem;
+}
+#menupic1:hover {
+  width: 20%;
+  border: 5px solid white;
+  color: white;
+  font-size: 1rem;
+  background-color: white;
+  transition-duration: 1s;
+}
+#menupic2 {
+  width: 300px;
+  height: 300px;
+  background-image: url("https://www.dropbox.com/s/bm7wxo2ngxeg8cx/pexels-pixabay-162947.jpg?raw=1");
+  background-size: cover;
+  border: 5px solid white;
+  color: white;
+  font-size: 1rem;
+}
+#menupic2:hover {
+  width: 20%;
+  border: 5px solid white;
+  color: white;
+  font-size: 1rem;
+  background-color: white;
+  transition-duration: 1s;
+}
+#menupic3:hover {
+  width: 20%;
+  border: 5px solid white;
+  color: white;
+  font-size: 1rem;
+  background-color: white;
+  transition-duration: 1s;
+}
+#menupic4:hover {
+  width: 20%;
+  border: 5px solid white;
+  color: white;
+  font-size: 1rem;
+  background-color: white;
+  transition-duration: 1s;
+}
+
+#menupic3 {
+  width: 300px;
+  height: 300px;
+  background-image: url("https://www.dropbox.com/s/p8gcxyo4eqdytne/pexels-rafel-al-saadi-247683.jpg?raw=1");
+  background-size: cover;
+  border: 5px solid white;
+  color: white;
+  font-size: 1rem;
+}
+
+#menupic4 {
+  width: 300px;
+  height: 300px;
+  background-image: url("https://www.dropbox.com/s/ctf7p94w93b1a8p/pexels-eric-montanah-1397309.jpg?raw=1");
+  background-size: cover;
+  border: 5px solid white;
+  color: white;
+  font-size: 1rem;
+}
+
+#insta1 {
+  width: 300px;
+  height: 300px;
+  background-image: url("https://www.dropbox.com/s/fpadwoiqhgxo88i/pexels-lina-kivaka-1841126.jpg?raw=1");
+  background-size: cover;
+  border: 5px solid white;
+  color: white;
+  font-size: 1rem;
+}
+#insta2 {
+  width: 300px;
+  height: 300px;
+  background-image: url("https://www.dropbox.com/s/8r8xkq3ec4icn1t/pexels-lisa-fotios-3632638%20%281%29.jpg?raw=1");
+  background-size: cover;
+  border: 5px solid white;
+  color: white;
+  font-size: 1rem;
+}
+#insta3 {
+  width: 300px;
+  height: 300px;
+  background-image: url("https://www.dropbox.com/s/9gcd0vup5n77slh/pexels-surjith-sv-1529886.jpg?raw=1");
+  background-size: cover;
+  border: 5px solid white;
+  color: white;
+  font-size: 1rem;
+}
+#insta4 {
+  width: 300px;
+  height: 300px;
+  background-image: url("https://www.dropbox.com/s/y3p2ktl27ew5z0o/pexels-pixabay-416593.jpg?raw=1");
+  background-size: cover;
+  border: 5px solid white;
+  color: white;
+  font-size: 1rem;
+}
+#insta5 {
+  width: 300px;
+  height: 300px;
+  background-image: url("https://www.dropbox.com/s/vl6kxdus0t6oh01/pexels-laura-james-6097695.jpg?raw=1");
+  background-size: cover;
+  border: 5px solid white;
+  color: white;
+  font-size: 1rem;
+}
+#insta6 {
+  width: 300px;
+  height: 300px;
+  background-image: url("https://www.dropbox.com/s/s4pg2gk5cpbkxto/pexels-roberto-hund-5356217.jpg?raw=1");
+  background-size: cover;
+  border: 5px solid white;
+  color: white;
+  font-size: 1rem;
+}
+#insta7 {
+  width: 300px;
+  height: 300px;
+  background-image: url("https://www.dropbox.com/s/7txn321fbp4ui16/pexels-amina-filkins-5414314.jpg?raw=1");
+  background-size: cover;
+  border: 5px solid white;
+  color: white;
+  font-size: 1rem;
+}
+#insta8 {
+  width: 300px;
+  height: 300px;
+  background-image: url("https://www.dropbox.com/s/o7why5x3fhfifqe/pexels-marta-dzedyshko-2067528.jpg?raw=1");
+  background-size: cover;
+  border: 5px solid white;
+  color: white;
+  font-size: 1rem;
+}
+#imgevent {
+  width: 200px;
+  height: 100%;
+  background-image: url("https://www.dropbox.com/s/mqmprcnf1qgov93/band.jpg?raw=1");
+  background-size: contain;
+  border: 5px solid white;
+  color: white;
+  font-size: 1rem;
+}
+
+#menunav {
+  padding-left: 5rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+#instanav {
+  padding-left: 5rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+#insta1:hover {
+  background-color: rgba(255, 255, 255, 0.63);
+  width: 20%;
+  cursor: pointer;
+  transition-duration: 1s;
+}
+#insta2:hover {
+  background-color: rgba(255, 255, 255, 0.63);
+  width: 20%;
+  cursor: pointer;
+  transition-duration: 1s;
+}
+#insta3:hover {
+  background-color: rgba(255, 255, 255, 0.63);
+  width: 20%;
+  cursor: pointer;
+  transition-duration: 1s;
+}
+#insta4:hover {
+  background-color: rgba(255, 255, 255, 0.63);
+  width: 30%;
+  cursor: pointer;
+  transition-duration: 1s;
+}
+#insta5:hover {
+  background-color: rgba(255, 255, 255, 0.63);
+  width: 20%;
+  cursor: pointer;
+  transition-duration: 1s;
+}
+#insta6:hover {
+  background-color: rgba(255, 255, 255, 0.63);
+  width: 20%;
+  cursor: pointer;
+  transition-duration: 1s;
+}
+#insta7:hover {
+  background-color: rgba(255, 255, 255, 0.63);
+  width: 20%;
+  cursor: pointer;
+  transition-duration: 1s;
+}
+#insta8:hover {
+  background-color: rgba(255, 255, 255, 0.63);
+  width: 20%;
+  cursor: pointer;
+  transition-duration: 1s;
+}
+.name {
+  font-family: "Hachi Maru Pop", cursive;
+  font-size: 10vh;
+  color: hsl(0, 0%, 100%);
+  text-align: center;
+  padding-top: 4rem;
+}
+.sub {
+  font-size: 1.3rem;
+  color: #ffead1;
+  text-align: center;
+  font-family: "Source Code Pro", monospace;
+  background-color: #acaaa7a4;
+  margin: auto;
+  width: 50%;
+}
+
+#about {
+  padding: 4rem;
+}
+#text,
+#location,
+#menu,
+#feature,
+#intagram,
+#event {
+  font-family: "Source Code Pro", monospace;
+  color: 53535381;
+  text-transform: uppercase;
+  font-size: 1.7rem;
+}
+#location:hover {
+  background-color: #faf7ea5e;
+  transition-duration: 2s;
+  cursor: pointer;
+}
+#icons {
+  color: #f1cea3;
+  padding-right: 2rem;
+  /* padding-left: 7rem; */
+}
+
+.sub-text {
+  padding-top: 1.6rem;
+  padding-left: 4rem;
+  text-transform: none;
+  font-size: 0.9rem;
+  padding-bottom: 1.6rem;
+}
+
+#footernav {
+  background-color: #eeeeeeec;
+  padding: 2rem;
+}
+
+html {
+  scroll-behavior: smooth;
+}
