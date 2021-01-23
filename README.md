@@ -1,1 +1,1 @@
-# bean-and-treats
+# Bean-And-Treats
